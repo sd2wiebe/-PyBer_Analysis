@@ -15,9 +15,9 @@ We can see from the data in the table:
 
 that over our sample the least amount of rides, drivers, and fares occurred in a rural setting with 125, 78, and 4327.93$ respectively. In a suburban setting we saw an increase in rides, drivers and fares with 625, 490 and 19356.33$ respectively. In an urban setting we observed the most rides, drivers, and fares with 1625, 2405, and 39854.38$ respectively.`
 
-### Average Rides, Drivers, and Fares by City Type
+### Average Fare per Ride and Driver by City Type
 
-Referring 
+Referring to the table above, we can see that when looking at average fare per driver, the highest average occus in rural settings with 55.48$/driver.  
 
 
 Results: Using images from the summary DataFrame and multiple-line chart, 
