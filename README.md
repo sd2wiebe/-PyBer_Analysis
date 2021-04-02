@@ -6,9 +6,13 @@ The purpose is to perform an exploratory analysis for python based ride sharing 
 ### Number of rides per City Type
 
 We can see from the data in the table:
+
 <p align="center"
+
 ![alttext](https://github.com/sd2wiebe/-PyBer_Analysis/blob/main/Analysis/Pyber_table.png)
+
 </p>
+
 that over our sample the least rides occurred in a rural setting with 125. In a suburban setting we saw more rides at 625 total. The most rides occured in an urban setting at  
 
 Results: Using images from the summary DataFrame and multiple-line chart, 
