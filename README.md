@@ -26,6 +26,9 @@ It is illustrated in this [line chart](https://github.com/sd2wiebe/-PyBer_Analys
 
 Referring to the table above, we can see that the highest average fare per driver, and average fare per ride, occurs in rural settings with 55.48$/driver and 34.62$/ride. In suburban cities we observed a lower average fare per driver, and average fare per ride, with 39.50$/driver and $30.97/ride. The lowest averages came in urban cities, with 16.57$/driver and 24.52$/ride 
 
+## Summary
+
+In conclusion the ride and fare total are where we expected them to be in regards to the city type. However, we did not expect the average fare per driver for urban cities to be less than half of that in suburban cities and less than a third of that in rural cities. This large disparity needs to be addressed. The significantly less fare/driver in urban cities is due to the very high amount of drivers, I would reccomend having less drivers in urban cities to bring that average closer to the suburban and rural numbers. I would also reccomend hiring more drivers in rural areas, as the average fare per driver is very high at 55.48$, so there is certainly room for more employees in these rural settings. Apotential solution would be to have 
 
 Results: Using images from the summary DataFrame and multiple-line chart, 
 describe the differences in ride-sharing data among the different city types.
